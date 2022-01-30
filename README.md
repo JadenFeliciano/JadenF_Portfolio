@@ -11,7 +11,7 @@
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project
 - Results were a "short yet successful game unlike anything made in the course" as quoted by the professor.</p>
 
-<h1># Arcade-Game Project: P.A.L. Game</h1>
+<h2># Arcade-Game Project: P.A.L. Game</h2>
 <p>- During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.
 - The game was a simple Mario-style platformer that I pieced together with the kids' ideas.</p> 
 
@@ -21,12 +21,12 @@
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.
 - Play tested the game multiple times before releasing the final product.<p>
 
-<h1># Game Project: Space Traders and Raiders</h1>
+<h3># Game Project: Space Traders and Raiders</h3>
 <p>- Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.
 - Tasked with creating 16-bit characters and four map markers.
 - Designed the basic version of the team's "company logo" that was later improved.</p>
 
-<h1># Documentation Project: Blender 2019</h1>
+<h4># Documentation Project: Blender 2019</h4>
 <p>- Studied Blender 2019 to grasp a deeper understanding in order to create a 25-page user manual.
 - Manual described Blender's tools and their basic functionalities.
 - Incorporated a chapter that teaches the reader how to make a low-poly world using many of the tools outlined in the manual.
