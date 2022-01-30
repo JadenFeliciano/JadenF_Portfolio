@@ -6,7 +6,7 @@
 </body>
 </html>
 
-</h2># Arcade-Game Project: Life & Death</h2>
+<h2># Arcade-Game Project: Life & Death</h2>
 <p>- Used Construct 3 to program a top-down story game that utilized an art style not commonly used in the program.
 - Produced multiple forms of documentation that described the team's goals, projected milestone dates, presentations, and progress reports.
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project
