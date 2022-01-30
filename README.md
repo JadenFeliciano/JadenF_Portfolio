@@ -8,9 +8,10 @@
 
 <h1># Arcade-Game Project: Life & Death</h1>
 <p>- Used Construct 3 to program a top-down story game that utilized an art style not commonly used in the program.
-* Produced multiple forms of documentation that described the team's goals, projected milestone dates, presentations, and progress reports.
+- Produced multiple forms of documentation that described the team's goals, projected milestone dates, presentations, and progress reports.
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project
 - Results were a "short yet successful game unlike anything made in the course" as quoted by the professor.</p>
+[LifeandDeath](https://jadenf.itch.io/life-death)
 
 <h1># Arcade-Game Project: P.A.L. Game</h1>
 <p>- During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.
