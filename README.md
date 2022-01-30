@@ -32,9 +32,3 @@
 - Incorporated a chapter that teaches the reader how to make a low-poly world using many of the tools outlined in the manual.
 - Described how to import and export files in Blender.
 - Included a title page, index, and glossary.</p>
-
-
-
-
-
-
