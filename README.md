@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>PORTFOLIO</h1>
-<p>My portfolio showcases the many kinds of designs and art I've created through my lifetime. This includes all of my game development projects, 2D/3D models, and even all of my documentation through college.</p>
+<p>Here I showcase the many kinds of designs and projects I've created through my lifetime. This includes all of my game development projects, 2D/3D models, and even my documentation through college.</p>
 </body>
 </html>
 
