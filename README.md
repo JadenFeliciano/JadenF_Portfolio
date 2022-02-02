@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Jaden_Portfolio</h1>
-<p>Here I showcase the many kinds of designs and projects I've created through my lifetime. This includes all of my game development projects, 2D/3D models, and even my documentation through college.</p>
+<p>Here I showcase the various kinds of designs and projects I've created through my lifetime. This includes all of my game development projects, 2D/3D models, and even my documentation through college.</p>
 </body>
 </html>
 
@@ -28,7 +28,7 @@
 - Tasked with creating 16-bit characters and four map markers.<br/>
 - Designed the basic version of the team's "company logo" that was later improved.<br/>
 
-<h1># Documentation Project: Blender 2019</h1>
+<h1># Documentation Project: User Manual for Blender 2019</h1>
 - Studied Blender 2019 to grasp a deeper understanding in order to create a 25-page user manual.<br/>
 - Manual described Blender's tools and their basic functionalities.<br/>
 - Incorporated a chapter that teaches the reader how to make a low-poly world using many of the tools outlined in the manual.<br/>
