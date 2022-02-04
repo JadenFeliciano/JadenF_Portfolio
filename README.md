@@ -38,3 +38,5 @@
 - Incorporated a chapter that teaches the reader how to make a low-poly world using many of the tools outlined in the manual.<br/>
 - Described how to import and export files in Blender.<br/>
 - Included a title page, index, and glossary.<br/>
+
+<img src="images/Life%20and%20Death%20Poster.PNG" width="250" height="250" />
