@@ -8,7 +8,7 @@
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project<br/>
 - Results were a "short yet successful game unlike anything made in the course" as quoted by the professor.<br/>
 
-![](images/Life%20and%20Death%20Poster.PNG | width=100)
+<img src="images/Life%20and%20Death%20Poster.PNG" width="250" height="250" />
 
 
 # [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
