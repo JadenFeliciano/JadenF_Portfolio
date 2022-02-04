@@ -15,7 +15,7 @@
 - During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
 - The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
 
-![](images/tim-sheet0.png | width=100)
+<img src="images/tim-sheet0.png " width="250" height="250" />
 
 # 3D Game Project: Tank Shot
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
@@ -23,12 +23,14 @@
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
 - Play tested the game multiple times before releasing the final product.<br/>
 
-![](images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png | width=100)
+<img src="images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png" width="250" height="250" />
 
 # Game Project: Space Traders and Raiders
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
 - Tasked with creating 16-bit characters and four map markers.<br/>
 - Designed the basic version of the team's "company logo" that was later improved.<br/>
+
+<img src="images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png" width="250" height="250" />
 
 # Documentation Project: User Manual for Blender 2019
 - Studied Blender 2019 to grasp a deeper understanding in order to create a 25-page user manual.<br/>
