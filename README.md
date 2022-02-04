@@ -8,14 +8,14 @@
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project<br/>
 - Results were a "short yet successful game unlike anything made in the course" as quoted by the professor.<br/>
 
-![](images/Life%20and%20Death%20Poster.PNG)
+![](images/Life%20and%20Death%20Poster.PNG | width=100)
 
 
 # [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
 - During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
 - The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
 
-![](images/tim-sheet0.png)
+![](images/tim-sheet0.png | width=100)
 
 # 3D Game Project: Tank Shot
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
@@ -23,7 +23,7 @@
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
 - Play tested the game multiple times before releasing the final product.<br/>
 
-![](images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png)
+![](images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png | width=100)
 
 # Game Project: Space Traders and Raiders
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
