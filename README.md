@@ -15,6 +15,8 @@
 - During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
 - The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
 
+![](images/tim-sheet0.png)
+
 # 3D Game Project: Tank Shot
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
 - Designed models of the player's tank, along with six varients of tank barrels and ammo to match.<br/>
