@@ -8,7 +8,7 @@
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project<br/>
 - Results were a "short yet successful game unlike anything made in the course" as quoted by the professor.<br/>
 
-[](images/Life%20and%20Death%20Poster.PNG)
+![](images/Life%20and%20Death%20Poster.PNG)
 
 
 # [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
@@ -21,7 +21,7 @@
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
 - Play tested the game multiple times before releasing the final product.<br/>
 
-[](images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png)
+![](images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png)
 
 # Game Project: Space Traders and Raiders
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
