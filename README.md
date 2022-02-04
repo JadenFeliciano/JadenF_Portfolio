@@ -8,6 +8,8 @@
 - Spent personal time to learn Consruct 3 in depth in order to meet the goals of the project<br/>
 - Results were a "short yet successful game unlike anything made in the course" as quoted by the professor.<br/>
 
+[](images/Life%20and%20Death%20Poster.PNG)
+
 
 # [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
 - During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
@@ -18,6 +20,8 @@
 - Designed models of the player's tank, along with six varients of tank barrels and ammo to match.<br/>
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
 - Play tested the game multiple times before releasing the final product.<br/>
+
+[](images/Life%20and%20Death%20Poster.PNG)
 
 # Game Project: Space Traders and Raiders
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
