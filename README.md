@@ -1,9 +1,6 @@
-<html>
-<body>
 # JadenF_Portfolio
 <p>These projects are within some of the many areas in which I have explored throughout my college career; Containing work in media design, video game production,  documentation, and 2D/3D modeling.</p>
-</body>
-</html>
+
 
 # [Arcade-Game Project: Life & Death](https://jadenf.itch.io/life-death)
 - Used Construct 3 to program a top-down story game that utilized an art style not commonly used in the program.<br/>
