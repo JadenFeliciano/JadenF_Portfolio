@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>JadenF_Portfolio</h1>
-<p>Here I showcase the various kinds of designs and projects I've created through my lifetime. This includes all of my game development projects, 2D/3D models, and even my documentation through college.</p>
+<p>These projects are within some of the many areas in which I have explored throughout my college career; Containing work in media design, video game production,  documentation, and 2D/3D modeling.</p>
 </body>
 </html>
 
