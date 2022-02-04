@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Jaden_Portfolio</h1>
+<h1>JadenF_Portfolio</h1>
 <p>Here I showcase the various kinds of designs and projects I've created through my lifetime. This includes all of my game development projects, 2D/3D models, and even my documentation through college.</p>
 </body>
 </html>
