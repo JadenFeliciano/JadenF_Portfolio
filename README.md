@@ -21,7 +21,7 @@
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
 - Play tested the game multiple times before releasing the final product.<br/>
 
-[](images/Life%20and%20Death%20Poster.PNG)
+[](images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png)
 
 # Game Project: Space Traders and Raiders
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
