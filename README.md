@@ -1,6 +1,5 @@
 <html>
 <body>
-<h1>JadenF_Portfolio</h1>
 <p>These projects are within some of the many areas in which I have explored throughout my college career; Containing work in media design, video game production,  documentation, and 2D/3D modeling.</p>
 </body>
 </html>
