@@ -40,3 +40,10 @@
 - Included a title page, index, and glossary.<br/>
 
 <img src="images/Blender%20Manual.PNG" width="400" height="250" />
+
+# [Video Project: 'The Super Weapon'](https://www.youtube.com/watch?v=AroxyBe6XZU)
+- Worked in a three man team to develop a funny skript, and recreate it using Source Filmmaker.<br/>
+- My inclusion (1:51 - 2:32)
+- Although experienced constant program crashes before saves, was able to create a funny scene in a limited time.
+- Added extra sound effects and audio to create a more entertaining video.
+
