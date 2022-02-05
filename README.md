@@ -39,4 +39,4 @@
 - Described how to import and export files in Blender.<br/>
 - Included a title page, index, and glossary.<br/>
 
-<img src="images/Blender%20Manual.PNG" width="250" height="450" />
+<img src="images/Blender%20Manual.PNG" width="450" height="250" />
