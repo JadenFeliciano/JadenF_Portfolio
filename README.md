@@ -17,7 +17,7 @@
 
 <img src="images/tim-sheet0.png " width="250" height="250" />
 
-# 3D Game Project: Tank Shot
+# [3D Game Project: Tank Shot](https://www.youtube.com/watch?v=WlKgPj-8woI&t=6s)
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
 - Designed models of the player's tank, along with six varients of tank barrels and ammo to match.<br/>
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
