@@ -1,5 +1,5 @@
 # JadenF_Portfolio
-<p>These projects outline what I have learned and applied throughout my college career; Containing work in media design, video game production, documentation, and 2D/3D modeling. Project titles in green will take you to the project link.</p>
+<p>These projects outline what I have learned and applied throughout my college career; Containing work in media design, video game production, documentation, and 2D/3D modeling. Currently sorting through many files of my work, and I will continue to update my site as I find them. Project titles in green will take you to the project link.</p>
 
 
 # [Arcade-Game Project: Life & Death](https://jadenf.itch.io/life-death)
