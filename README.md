@@ -1,4 +1,4 @@
-# Jaden S. Feliciano<br/>Bachelor's In Communication and Information Design
+# Jaden S. Feliciano<br/>Communication and Information Designer
 <p>These projects outline what I have learned and applied throughout my college career; Containing work in media design, video game production, documentation, and 2D/3D modeling. Currently sorting through many files of my work, and I will continue to update my site as I find them. Project titles in green will take you to the project link.</p>
 
 
