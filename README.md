@@ -1,4 +1,4 @@
-# Jaden S. Feliciano<br/> Communication and Information Designer
+# Jaden S. Feliciano,<br/> Communication and Information Designer
 As a recent graduate and Bachelor's degree holder, I've been on the hunt for new and interesting opportunities within my field. This portfolio displays many projects that outline my studies through college and beyond; Containing work in media design, video game production, documentation, and 2D/3D modeling. I am currently sorting through many files of my work, and I will continue to update the site as I go. Highlighted project titles will take you directly to the project link.
 
 
