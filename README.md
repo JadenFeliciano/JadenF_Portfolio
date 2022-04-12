@@ -11,6 +11,7 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 <p align="center">
 <img src="images/Life%20and%20Death%20Poster.PNG" width="250" height="250" />
 </p>
+<br/>
 
 
 # [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
