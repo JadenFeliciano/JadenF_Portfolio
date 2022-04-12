@@ -38,6 +38,7 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
 - Tasked with creating 16-bit characters and four map markers.<br/>
 - Designed the basic version of the team's "company logo" that was later improved.<br/>
+- Actively involved in S.C.R.U.M. meetings to ensure proper development amongst engineer, artist, and design teams.<br/>
 
 <p align="center"> 
 <img src="images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png" width="250" height="250" />
