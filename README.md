@@ -21,7 +21,8 @@ I am currently sorting through many files of my work, and I will continue to upd
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
 - Designed models of the player's tank, along with six varients of tank barrels and ammo to match.<br/>
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
-- Play tested the game multiple times before releasing the final product.<br/>
+- Designed the 'M&M Productions' logo, as well as the game's poster.
+- Play tested the game multiple times while documenting any bugs before releasing the final product.<br/>
  
 <p align="center"> 
 <img src="images/TankShot%20Poster%20COMPLETE%20(2).png" width="250" height="250" />
