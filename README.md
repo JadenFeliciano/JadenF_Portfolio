@@ -18,22 +18,31 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 - During my time as a summer camp counselor, I taught the second grade about video game development by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
 - The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
 
+<p align="center">
 <img src="images/tim-sheet0.png " width="250" height="250" />
+</p>
+<br/>
 
 # [3D Game Project: Tank Shot](https://www.youtube.com/watch?v=WlKgPj-8woI&t=6s)
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
 - Designed models of the player's tank, along with six varients of tank barrels and ammo to match.<br/>
 - Created two extra assets, a dog tag collectible and a target for gameplay testing.<br/>
 - Play tested the game multiple times before releasing the final product.<br/>
-  
+ 
+<p align="center"> 
 <img src="images/TankShot%20Poster%20COMPLETE%20(2).png" width="250" height="250" />
+</p>
+<br/>
 
 # Game Project: Space Traders and Raiders
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
 - Tasked with creating 16-bit characters and four map markers.<br/>
 - Designed the basic version of the team's "company logo" that was later improved.<br/>
 
+<p align="center"> 
 <img src="images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png" width="250" height="250" />
+</p>
+<br/>
 
 # Documentation Project: User Manual for Blender 2019
 - Studied Blender 2019 to grasp a deeper understanding in order to create a 25-page user manual.<br/>
@@ -42,7 +51,10 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 - Described how to import and export files in Blender.<br/>
 - Included a title page, index, and glossary.<br/>
 
+<p align="center"> 
 <img src="images/Blender%20Manual.PNG" width="400" height="250" />
+</p>
+<br/>
 
 # [Video Project: 'The Super Weapon'](https://www.youtube.com/watch?v=AroxyBe6XZU)
 - Worked in a three man team to develop a funny skript, and recreate it using Source Filmmaker.<br/>
