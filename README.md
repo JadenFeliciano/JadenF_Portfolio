@@ -12,7 +12,7 @@
 
 
 # [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
-- During my time as a summer camp counselor, I taught the second grade how game development works by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
+- During my time as a summer camp counselor, I taught the second grade about video game development by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
 - The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
 
 <img src="images/tim-sheet0.png " width="250" height="250" />
