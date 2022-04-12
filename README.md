@@ -13,16 +13,6 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 </p>
 <br/>
 
-
-# [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
-- During my time as a summer camp counselor, I taught the second grade about video game development by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
-- The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
-
-<p align="center">
-<img src="images/tim-sheet0.png " width="250" height="250" />
-</p>
-<br/>
-
 # [3D Game Project: Tank Shot](https://www.youtube.com/watch?v=WlKgPj-8woI&t=6s)
 - Worked in Blender 2019 to design all assets and models for a 3D third-person tank shooter game based in Unity.<br/>
 - Designed models of the player's tank, along with six varients of tank barrels and ammo to match.<br/>
@@ -42,6 +32,15 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 
 <p align="center"> 
 <img src="images/Space%20Traders%20and%20Raiders_%20Title%20screen-1.png.png" width="250" height="250" />
+</p>
+<br/>
+
+# [Arcade-Game Project: P.A.L. Game](https://jadenf.itch.io/pal-game)
+- During my time as a summer camp counselor, I taught the second grade about video game development by allowing them to create their own Police Athletic League (P.A.L) game.<br/>
+- The game was a simple Mario-style platformer that I pieced together with the kids' ideas.<br/>
+
+<p align="center">
+<img src="images/tim-sheet0.png " width="250" height="250" />
 </p>
 <br/>
 
