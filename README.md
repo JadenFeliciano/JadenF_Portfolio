@@ -1,4 +1,4 @@
-# Jaden S. Feliciano<br/>Communication and Information Designer
+# Jaden S. Feliciano<br/> Communication and Information Designer
 <p>These projects outline what I have learned and applied throughout my college career; Containing work in media design, video game production, documentation, and 2D/3D modeling. Currently sorting through many files of my work, and I will continue to update the site. Highlighted project titles will take you to the project link.</p>
 
 
