@@ -62,3 +62,8 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 - Although experienced constant program crashes before saves, was able to create a funny scene in a limited time.
 - Added extra sound effects and audio to create a more entertaining video.
 
+<p align="center">
+<img src="images/Super Weapon.PNG" width="250" height="250" />
+</p>
+<br/>
+
