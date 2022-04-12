@@ -58,10 +58,10 @@ As a recent graduate and Bachelor's degree holder, I've been on the hunt for new
 <br/>
 
 # [Video Project: 'The Super Weapon'](https://www.youtube.com/watch?v=AroxyBe6XZU)
-- Worked in a three man team to develop a funny skript, and recreate it using Source Filmmaker.<br/>
+- Worked in a three man team to develop a comedic skript, and recreate it using Source Filmmaker.<br/>
 - My inclusion (1:51 - 2:32)
-- Although experienced constant program crashes before saves, was able to create a funny scene in a limited time.
-- Added extra sound effects and audio to create a more entertaining video.
+- Although experiencing constant program crashes before my saves, was able to create the scene in a limited time.
+- Incorporated additional audio effects and music to improve the video's entertainment value.
 
 <p align="center">
 <img src="images/Super Weapon.PNG" width="250" height="250" />
