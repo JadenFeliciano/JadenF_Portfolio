@@ -75,6 +75,7 @@ I am currently sorting through many files of my work, and I will continue to upd
 
 # [Art Project: Drawings](https://github.com/JadenFeliciano/JadenF_Portfolio/tree/main/Drawings)
 - Would create many drawings of fictional characters as a hobby.<br/>
+- All drawings were drawn freehanded taking advantage of a reference image.
 
 <p align="center">
 <img src="images/Spongebob Drawing.png " width="250" height="250" />
