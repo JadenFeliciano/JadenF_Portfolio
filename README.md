@@ -76,7 +76,7 @@ I am currently sorting through many files of my work, and I will continue to upd
 # [3D Design Project: Assets Created in Blender](https://github.com/JadenFeliciano/JadenF_Portfolio/tree/main/Blender%20Renders)
 - College course: Created multiple rooms, a sword, and two character assets using Blender.<br/>
 - Each room was sketched out prior to their design.<br/>
-- Based bedroom loosely on my own.<br/>
+- Bedroom model was based loosely on my own.<br/>
 
 <p align="center">
 <img src="Blender Renders/Bedroom Full View.png" width="250" height="250" />
