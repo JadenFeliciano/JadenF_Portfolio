@@ -73,3 +73,11 @@ I am currently sorting through many files of my work, and I will continue to upd
 </p>
 <br/>
 
+# Art Project: Drawings
+- Would create many drawings of fictional characters as a hobby.<br/>
+
+<p align="center">
+<img src="images/Spongebob Drawing.png " width="250" height="250" />
+</p>
+<br/>
+
