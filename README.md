@@ -51,7 +51,7 @@ I am currently sorting through many files of my work, and I will continue to upd
 <br/>
 
 # [Documentation Project: User Manual for Blender 2019](Blender_2019 User Manual.pdf)
-- Studied Blender 2019 to grasp a deeper understanding in order to create a 25-page user manual.<br/>
+- Studied Blender 2019 to grasp a deeper understanding in order to create a 24-page user manual.<br/>
 - Manual described Blender's tools and their basic functionalities.<br/>
 - Incorporated a chapter that teaches the reader how to make a low-poly world using many of the tools outlined in the manual.<br/>
 - Described how to import and export files in Blender.<br/>
