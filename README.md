@@ -1,7 +1,7 @@
 # Jaden S. Feliciano:<br/> Communication and Information Designer
 As a recent graduate and Bachelor's degree holder, I've been on the hunt for any new and interesting opportunities within my field. This portfolio displays many projects that outline my studies through college and beyond; Containing work in media design, video game production, documentation, and 2D/3D modeling.<br/> 
 
-I am currently sorting through many files of my work, and I will continue to update this site as I progress. Highlighted project titles are linked to take you directly to the project.<br/>
+I am currently sorting through many files of my work, and I will continue to update this site as I progress. Clicking the project titles will to take you directly to the project and/or their files.<br/>
 
 [LinkedIn Profile](https://www.linkedin.com/in/jadenfeliciano)<br/>
 [Portfolio(Wix Edition)](https://jadenfeliciano.wixsite.com/portfolio)<br/> 
@@ -29,7 +29,7 @@ I am currently sorting through many files of my work, and I will continue to upd
 </p>
 <br/>
 
-# Game Project: Space Traders and Raiders
+# [Game Project: Space Traders and Raiders](https://github.com/JadenFeliciano/JadenF_Portfolio/tree/main/STaR%20Sprites)
 - Given a large 20 page video game document by the professor that the class was expected to understand, then to create the game properly.<br/>
 - Tasked with creating 16-bit characters and four map markers.<br/>
 - Designed the basic version of the team's "company logo" that was later improved.<br/>
